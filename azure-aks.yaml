@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: myaks12.azurecr.io/palavi05/python
+        image: MyAKS12.azurecr.io/palavi05/Python
         ports:
         - containerPort: 5000
 # service type loadbalancer       
